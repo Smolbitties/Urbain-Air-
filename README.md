@@ -23,4 +23,4 @@ This project analyzes urban air quality data and its health impacts using Python
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Smolbitties/Urban-Air-Quality.git
+   git clone https://github.com/Smolbitties/Urban-Air-Quality-Report.git
